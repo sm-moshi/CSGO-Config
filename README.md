@@ -6,6 +6,8 @@ autoexec.cfg:
 
   Where to put -> ...\steam\steamapps\common\counter-strike global offensive\csgo\cfg
 
+-> FPS settings are for 60Hz monitors - so use "Wait for vertical sync" on Double Buffered, Tripple Buffered if you're PC is capable on handling it.
+
 Launch options:
 
   -novid -noborder -high -threads 4 -freq 144 -refresh 144 -tickrate 128 -nojoy +exec autoexec.cfg
@@ -16,10 +18,6 @@ Launch options:
 Simple Radar: http://www.simpleradar.com/
 
   Where to put -> ...\steam\steamapps\common\counter-strike global offensive\csgo\resource\overviews
-
-
-
-
 
 Steam: https://steamcommunity.com/id/CommiDev/
 Twitter: @gltzrsckchn
