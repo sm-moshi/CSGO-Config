@@ -6,7 +6,7 @@ autoexec.cfg:
 
   Where to put -> ...\steam\steamapps\common\counter-strike global offensive\csgo\cfg
 
--> FPS settings are for 60Hz monitors - so use "Wait for vertical sync" on Double Buffered, Tripple Buffered if you're PC is capable on handling it.
+-> FPS settings are for 60Hz monitors - so use "Wait for vertical sync" on Double Buffered, Tripple Buffered if you're PC is capable on handling it. (I got pretty hard screentearing without it. If you don't have that at 60Hz, then bump up fps_max so 121 and disable Vsync.)
 
 Launch options:
 
