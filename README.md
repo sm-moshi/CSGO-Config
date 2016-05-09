@@ -19,5 +19,4 @@ Simple Radar: http://www.simpleradar.com/
   
 Color Mod: http://bananagaming.tv/colormod/
 
-Steam: https://steamcommunity.com/id/CommiDev/
-Twitter: @gltzrsckchn
+Steam: http://steamcommunity.com/id/NotWalterHeisenberg
