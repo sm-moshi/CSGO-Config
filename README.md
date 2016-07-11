@@ -8,7 +8,7 @@ autoexec.cfg:
   
 Launch options:
 
--novid -nod3d9ex -high -threads 4 -nojoy +exec autoexec.cfg -language bananagaming
+-high -nojoy -novid -threads 4 +exec autoexec.cfg -language bananagaming +cl_forcepreload 1 +mat_queue_mode 2
 
   Where to put -> Steam > library > counter-strike global offensive (right-click) >
   properties > set launch options...
