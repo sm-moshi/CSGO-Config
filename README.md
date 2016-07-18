@@ -18,5 +18,3 @@ Simple Radar: http://www.simpleradar.com/
   Where to put -> ...\steam\steamapps\common\counter-strike global offensive\csgo\resource\overviews
   
 Color Mod: http://bananagaming.tv/colormod/
-
-Steam: http://steamcommunity.com/id/NotWalterHeisenberg
